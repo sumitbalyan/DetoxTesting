@@ -14,7 +14,7 @@ npx detox build -c android
 
 npx detox test -c android
 
-## Android detox commands
+## iOS detox commands
 
 npx detox build -c ios
 
